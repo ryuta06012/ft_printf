@@ -1,6 +1,6 @@
 # ft_printf
-Implement the same behavior as printf
-• The prototype of ft_printf should be int ft_printf(const char *, ...);
+Implement the same behavior as printf\n
+• The prototype of ft_printf should be int ft_printf(const char *, ...);\n
 • You have to recode the libc’s printf function
 • It must not do the buffer management like the real printf
 • It will manage the following conversions: cspdiuxX%
